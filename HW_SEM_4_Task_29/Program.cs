@@ -28,7 +28,7 @@ void PrintArray(int[] array)
     Console.Write("[ ");
     for (int i = 0; i < array.Length; i++)
     {
-        Console.Write(array[i] + " ");
+        Console.Write(array[i] + " ,");
     }
     Console.Write(" ]");
 }
