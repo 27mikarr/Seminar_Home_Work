@@ -13,3 +13,5 @@ for(int i = 2; i <= degree; i++)
    Console.WriteLine($"число {num} в степени {i} равно {pow} ");
 }
 Console.WriteLine("\b\b ");
+  
+  
