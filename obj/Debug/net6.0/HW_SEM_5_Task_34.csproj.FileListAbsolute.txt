@@ -1,0 +1,15 @@
+C:\Users\Александр К\Documents\GB lesson\Seminar_Home_Work\HW_SEM_5_Task_34\bin\Debug\net6.0\HW_SEM_5_Task_34.exe
+C:\Users\Александр К\Documents\GB lesson\Seminar_Home_Work\HW_SEM_5_Task_34\bin\Debug\net6.0\HW_SEM_5_Task_34.deps.json
+C:\Users\Александр К\Documents\GB lesson\Seminar_Home_Work\HW_SEM_5_Task_34\bin\Debug\net6.0\HW_SEM_5_Task_34.runtimeconfig.json
+C:\Users\Александр К\Documents\GB lesson\Seminar_Home_Work\HW_SEM_5_Task_34\bin\Debug\net6.0\HW_SEM_5_Task_34.dll
+C:\Users\Александр К\Documents\GB lesson\Seminar_Home_Work\HW_SEM_5_Task_34\bin\Debug\net6.0\HW_SEM_5_Task_34.pdb
+C:\Users\Александр К\Documents\GB lesson\Seminar_Home_Work\HW_SEM_5_Task_34\obj\Debug\net6.0\HW_SEM_5_Task_34.csproj.AssemblyReference.cache
+C:\Users\Александр К\Documents\GB lesson\Seminar_Home_Work\HW_SEM_5_Task_34\obj\Debug\net6.0\HW_SEM_5_Task_34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр К\Documents\GB lesson\Seminar_Home_Work\HW_SEM_5_Task_34\obj\Debug\net6.0\HW_SEM_5_Task_34.AssemblyInfoInputs.cache
+C:\Users\Александр К\Documents\GB lesson\Seminar_Home_Work\HW_SEM_5_Task_34\obj\Debug\net6.0\HW_SEM_5_Task_34.AssemblyInfo.cs
+C:\Users\Александр К\Documents\GB lesson\Seminar_Home_Work\HW_SEM_5_Task_34\obj\Debug\net6.0\HW_SEM_5_Task_34.csproj.CoreCompileInputs.cache
+C:\Users\Александр К\Documents\GB lesson\Seminar_Home_Work\HW_SEM_5_Task_34\obj\Debug\net6.0\HW_SEM_5_Task_34.dll
+C:\Users\Александр К\Documents\GB lesson\Seminar_Home_Work\HW_SEM_5_Task_34\obj\Debug\net6.0\refint\HW_SEM_5_Task_34.dll
+C:\Users\Александр К\Documents\GB lesson\Seminar_Home_Work\HW_SEM_5_Task_34\obj\Debug\net6.0\HW_SEM_5_Task_34.pdb
+C:\Users\Александр К\Documents\GB lesson\Seminar_Home_Work\HW_SEM_5_Task_34\obj\Debug\net6.0\HW_SEM_5_Task_34.genruntimeconfig.cache
+C:\Users\Александр К\Documents\GB lesson\Seminar_Home_Work\HW_SEM_5_Task_34\obj\Debug\net6.0\ref\HW_SEM_5_Task_34.dll
