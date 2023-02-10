@@ -44,13 +44,13 @@ void PrintArray( int[,] arry)
 
 void FindArithMean( int[,] arry)
 {
-    for (int col = 0; col < arry.GetLength(1); col++)
+    for (int col1 = 0; col1 < arry.GetLength(1); col1++)
     {
             arithMean = 0;
-        for (int row = 0; row < arry.GetLength(0); row++)
+        for (int row1 = 0; row1 < arry.GetLength(0); row1++)
         {
-            arithMean = arithMean + array2d[row, col];
+            arithMean = arithMean + array2d[row1, col1];
         }
-        Console.WriteLine($" среднее арифметическое для строки {col +1} равно {arithMean / row} ");
+        Console.WriteLine($" среднее арифметическое для столбца {col1 +1} равно {arithMean / row} ");
     }
 }
